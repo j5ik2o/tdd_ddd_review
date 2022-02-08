@@ -23,7 +23,7 @@ native
 .terraform/
 node_modules/
 dump.rdb
-
+.gradle/
 .DS_Store
 dumps/
 .bsp/
