@@ -29,3 +29,4 @@ dumps/
 .bsp/
 .bloop/
 .tool-version
+build/
